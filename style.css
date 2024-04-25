@@ -1,0 +1,75 @@
+body{
+    font-size: larger;
+
+}
+header{
+    background-color: burlywood;
+    padding: 20px;
+    color: wheat;
+    text-align: center;
+}
+body{
+    font-size: larger;
+    text-align: center;
+
+}
+header{
+    background-color: burlywood;
+    padding: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+
+.navbar a{
+    padding: 10px;
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 18px;
+    border: 20px;
+    color: black;
+
+
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    display:block;
+    margin-bottom: 5px;
+    color:black
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color:aquamarine;
+    color:black;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+footer {
+    background-color:brown;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width:10fr;
+    bottom: 0;
+}
+
+img {
+    width: 200px;
+    border-image-width: 5px;
+
+}
